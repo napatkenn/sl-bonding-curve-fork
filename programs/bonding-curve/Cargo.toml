@@ -19,6 +19,7 @@ default = []
 anchor-lang = { workspace = true }
 anchor-spl = { workspace = true }
 solana-program = { workspace = true }
+mpl-token-metadata = { workspace = true }
 
 [dev-dependencies]
 solana-program-test = { workspace = true }
